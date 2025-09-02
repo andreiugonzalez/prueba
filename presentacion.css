@@ -1,0 +1,39 @@
+.body{
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+
+
+
+.titulo {
+    text-align: center;
+    color: while;
+    padding: 20px 0;
+    background-color: gray;
+    box-shadow: dimgrey;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: gray;
+    box-shadow: dimgrey;
+}
+
+.presentacion {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gray;
+    box-shadow: dimgrey;
+}
+
+.contacto {
+    padding: 20px;
+    border-radius: 5px;
+    background-color: gray;
+    box-shadow: dimgrey;
+}
